@@ -83,7 +83,7 @@ main dl dt {
     font-weight: 700;
 }
 
-main dt dd{
+main dl dd{
     color: #024873; 
     font-size: .9rem;
 }
